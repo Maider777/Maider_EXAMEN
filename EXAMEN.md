@@ -1,0 +1,2 @@
+El test de pruebas unitarias contiene tres tipos de secciones, el primero es la introduccion, que es donde se dice lo que se va a realizar; el segundo, es donde se crea el objeto y donde se pone el codigo; y el tercero, donde se comparan los resultados.
+El test, es para comprobar que el codigo que se hace en otro archivo sea correcto. Sirve para asegurar que todo el codigo funciona perfectamente. es decir, se verifica que este en correcto estado el codigo, el nombre del archivo, los parametros, y todo lo que lo compone.
